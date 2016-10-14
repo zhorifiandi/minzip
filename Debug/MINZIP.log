@@ -1,0 +1,54 @@
+﻿Build started 2/22/2016 4:18:34 AM.
+     1>Project "C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MINZIP\MINZIP\MINZIP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Compression.cpp Decompression.cpp Interface.cpp outputfile.cpp
+         Compression.cpp
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(331): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(332): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(333): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(347): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(348): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(349): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         Decompression.cpp
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(258): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(259): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(260): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(274): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(275): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(276): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         Interface.cpp
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(331): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(332): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(333): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(347): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(348): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(349): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(258): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(259): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(260): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(274): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(275): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Decompression.h(276): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         outputfile.cpp
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(331): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(332): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(333): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(347): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(348): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\asus\documents\visual studio 2013\projects\minzip\minzip\Compression.h(349): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MINZIP\Debug\MINZIP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\MINZIP.About.resources /ASSEMBLYRESOURCE:Debug\MINZIP.Compression.resources /ASSEMBLYRESOURCE:Debug\MINZIP.Decompression.resources /ASSEMBLYRESOURCE:Debug\MINZIP.Interface.resources /ASSEMBLYRESOURCE:Debug\MINZIP.outputfile.resources /ASSEMBLYRESOURCE:Debug\MINZIP.StatCompress.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MINZIP\Debug\MINZIP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MINZIP\Debug\MINZIP.lib" /MACHINE:X86 Debug\About.obj
+         Debug\BinTree.obj
+         Debug\Compression.obj
+         Debug\Decompression.obj
+         Debug\InOutStream.obj
+         Debug\Interface.obj
+         Debug\outputfile.obj
+         Debug\StatCompress.obj
+         MINZIP.vcxproj -> C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MINZIP\Debug\MINZIP.exe
+     1>Done Building Project "C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MINZIP\MINZIP\MINZIP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.30
